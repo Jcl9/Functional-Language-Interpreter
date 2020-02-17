@@ -1,4 +1,4 @@
-# Functional-language-Interpreter
+# Functional-Language-Interpreter
 An interpreter for a simple functional language called PLAN
 # Grammar
 〈P rogram〉::= ( prog〈Expr〉)  
